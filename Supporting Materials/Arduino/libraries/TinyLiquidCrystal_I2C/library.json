@@ -1,0 +1,15 @@
+{
+  "name": "TinyLiquidCrystal_I2C",
+  "keywords": "LCD, liquidcrystal, I2C",
+  "description": "LiquidCrystal Arduino library for ATtiny microcontrollers (PCF8574 I2C based displays)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/lucas-inacio/TinyLiquidCrystal_I2C.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
